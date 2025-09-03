@@ -1,0 +1,13 @@
+- [x] Set up backend with Node.js, Express, MongoDB
+- [x] Create models for Product, User, Order
+- [x] Create API routes for products, auth, orders
+- [x] Set up React frontend with Tailwind CSS
+- [x] Implement product listing with search/filter
+- [x] Implement shopping cart with quantity control
+- [x] Implement checkout simulation with form validation
+- [x] Implement user login and order history
+- [x] Update product images to local paths
+- [x] Run backend server
+- [x] Seed database with products
+- [x] Run frontend server
+- [ ] Test all features thoroughly
